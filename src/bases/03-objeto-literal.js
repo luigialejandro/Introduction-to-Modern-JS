@@ -27,6 +27,12 @@ persona2.nombre = 'Peter';
 //se trata del operador spread(tres puntos)
 console.log(persona2);
 
+//forma incorrecta de hacer clon, el cual solo termina haciendo referencia al primer
+//objeto es --->
+
+//const persona2 = persona;
+//console.log( persona2 );
+
 
 
 
